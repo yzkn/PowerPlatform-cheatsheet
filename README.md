@@ -1,0 +1,2 @@
+# PowerPlatform-cheatsheet
+ Power Platformチートシート
